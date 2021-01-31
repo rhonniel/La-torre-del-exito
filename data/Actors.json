@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"protas","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Protagonista","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"protas","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"protas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Protagonista","nickname":"","note":"","profile":""}
+]
